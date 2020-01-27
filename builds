@@ -1,2 +1,2 @@
-mkdir minfy
-mkdir aaaa
+sh 'mkdir minfy'
+sh 'mkdir aaaa'
