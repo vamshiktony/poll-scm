@@ -1,1 +1,1 @@
-mkdir ajay@123
+mkdir vamshi
