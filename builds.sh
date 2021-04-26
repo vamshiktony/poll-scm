@@ -1,1 +1,1 @@
-cp one.html /var/www/html/
+mkdir reddy
