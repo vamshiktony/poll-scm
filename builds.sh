@@ -1,1 +1,1 @@
-mkdir vamshi
+cp one.html /var/www/html/
