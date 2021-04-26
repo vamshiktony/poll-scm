@@ -1,1 +1,1 @@
-mkdir minfy
+mkdir ajay@123
